@@ -8,8 +8,8 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"iron": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/iron",
-		"handle": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/handle",
+		"iron": "/Vintagestory/assets/survival/textures/item/tool/material/iron",
+		"handle": "/Vintagestory/assets/survival/textures/item/tool/material/handle",
 		"eyes": "/Desktop/cust textures/eyes",
 		"crab": "/Desktop/cust textures/crab"
 	},

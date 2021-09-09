@@ -8,12 +8,12 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"linen": "C:/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/linen",
-		"iron": "C:/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/iron",
-		"wood": "C:/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/wood",
-		"brass": "C:/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/brass",
-		"woodenclub": "C:/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/woodenclub",
-		"andesite": "C:/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/andesite"
+		"linen": "/Vintagestory/assets/survival/textures/item/tool/material/linen",
+		"iron": "/Vintagestory/assets/survival/textures/item/tool/material/iron",
+		"wood": "/Vintagestory/assets/survival/textures/item/tool/material/wood",
+		"brass": "/Vintagestory/assets/survival/textures/item/tool/material/brass",
+		"woodenclub": "/Vintagestory/assets/survival/textures/item/tool/material/woodenclub",
+		"andesite": "/Vintagestory/assets/survival/textures/item/tool/material/andesite"
 	},
 	"elements": [
 		{

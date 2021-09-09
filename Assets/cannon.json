@@ -8,12 +8,12 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"bismuthbronze": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/bismuthbronze",
-		"blackbronze": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/blackbronze",
-		"iron": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/iron",
-		"wood": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/wood",
-		"brass": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/brass",
-		"woodenclub": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/woodenclub"
+		"bismuthbronze": "/Vintagestory/assets/survival/textures/item/tool/material/bismuthbronze",
+		"blackbronze": "/Vintagestory/assets/survival/textures/item/tool/material/blackbronze",
+		"iron": "/Vintagestory/assets/survival/textures/item/tool/material/iron",
+		"wood": "/Vintagestory/assets/survival/textures/item/tool/material/wood",
+		"brass": "/Vintagestory/assets/survival/textures/item/tool/material/brass",
+		"woodenclub": "/Vintagestory/assets/survival/textures/item/tool/material/woodenclub"
 	},
 	"elements": [
 		{

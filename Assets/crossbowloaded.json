@@ -8,10 +8,10 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"iron": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/iron",
-		"linen": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/linen",
-		"wood": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/wood",
-		"brass": "/Users/Blury/AppData/Roaming/Vintagestory/assets/survival/textures/item/tool/material/brass"
+		"iron": "/Vintagestory/assets/survival/textures/item/tool/material/iron",
+		"linen": "/Vintagestory/assets/survival/textures/item/tool/material/linen",
+		"wood": "/Vintagestory/assets/survival/textures/item/tool/material/wood",
+		"brass": "/Vintagestory/assets/survival/textures/item/tool/material/brass"
 	},
 	"elements": [
 		{
