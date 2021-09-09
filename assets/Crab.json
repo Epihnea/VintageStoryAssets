@@ -8,8 +8,8 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"eyes": "/Desktop/cust textures/eyes",
-		"crab": "/Desktop/cust textures/crab"
+		"eyes": "/cust textures/eyes",
+		"crab": "/cust textures/crab"
 	},
 	"elements": [
 		{
